@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i&display=swap);
 
 
 
@@ -1222,6 +1222,14 @@ section.lazy-placeholder:after {
 .cid-s8nQmnGiNf H2 {
   color: #efcc25;
 }
+.cid-s8oYdMpmA9 {
+  padding-top: 0px;
+  padding-bottom: 90px;
+  background-color: #2e2e2e;
+}
+.cid-s8oYdMpmA9 P {
+  color: #767676;
+}
 .cid-s8kge55KUM {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -1827,6 +1835,14 @@ section.lazy-placeholder:after {
 .cid-s8nZpeY3If .nav-link:hover,
 .cid-s8nZpeY3If .dropdown-item:hover {
   color: #ffffff !important;
+}
+.cid-s8oYrWLrz6 {
+  padding-top: 75px;
+  padding-bottom: 0px;
+  background-color: #149dcc;
+}
+.cid-s8oYrWLrz6 P {
+  color: #767676;
 }
 .cid-s8nIyA8c9M {
   padding-top: 90px;
